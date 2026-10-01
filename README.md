@@ -28,11 +28,3 @@ Then I researched how to make it respond to each interaction
 ## Why I made this
 
 I made this as part of a playground challenge in Stardance and I want to learn how to make my own desktop pet
-
-
-## Challenges
-
-I faced challenges mainly in creating the assets; it is very difficult to make the assets and their animations work.
-But I enjoyed those struggles.
-
-I keep repeating this to me: "TRY AGAIN FAIL AGAIN"
