@@ -17,7 +17,8 @@ Window Buddy is a simple desktop pet that lives on your screen and reacts to you
 - 2D pet
 - Pet that shows emotions based on how we interact with it
 - Always available
-- 
+
+
 ## How I made this
 
 I made this using Godot 4. 
