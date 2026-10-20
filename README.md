@@ -1,13 +1,13 @@
 # Window Buddy
 
-Window Buddy is a simple desktop pet that lives on your screen and reacts to your interactions.
+Window Buddy is a simple desktop pet 
 
-# Available Controls
+# Controls that are available
 
-- Click two times make pet happy
+- click two times make pet happy
 - if you click more than 2 times, it make the pet angry
 - click left arrow to move left, right arrow to move right
-- You can also drag your pet
+- you can also drag your pet
 
 # How I made this
 
